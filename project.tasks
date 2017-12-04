@@ -1,0 +1,27 @@
+[Home page]
+	-editable from [control panel]
+[Request page]
+	-Form 
+		*bunch of text field
+			.the user's city
+		*upload video/image files
+		*Editable from [control panel]
+		*push data to on hold requests
+[control panel]
+	-show on hold requests
+		*approve on them
+		*edit them
+		*delete them
+	-edit the request form
+	-stats
+	-show messages from [contact us]
+[blog]
+	-show data
+		*make order by time
+		*make order by city
+		*make order by upvotes??
+	-stats
+		* by city
+[contact us]
+- simple contact us form
+
